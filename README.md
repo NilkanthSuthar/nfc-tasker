@@ -94,7 +94,7 @@ nfc-tasker/
 
 | Home Screen | Scan Interface | Manual Control | Device List |
 |-------------|----------------|----------------|-------------|
-| ![Home](./screenshots/IMG-20230627-WA0001.jpg) | ![Scan](./screenshots/IMG-20230627-WA0003.jpg) | ![Manual](./screenshots/IMG-20230627-WA0004.jpg) | ![Devices](./screenshots/IMG-20230627-WA0005.jpg) |
+| ![Home](./screenshots/IMG-20230627-WA0003.jpg) | ![Scan](./screenshots/IMG-20230627-WA0004.jpg) | ![Manual](./screenshots/IMG-20230627-WA0005.jpg) | ![Devices](./screenshots/IMG-20230627-WA0001.jpg) |
 
 ---
 
